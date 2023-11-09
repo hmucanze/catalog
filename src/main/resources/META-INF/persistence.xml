@@ -9,8 +9,8 @@
              		<property name="jakarta.persistence.jdbc.url"
              			value="jdbc:mysql://localhost/catalog_db?createDatabaseIfNotExist=true"/>
              		
-             		<property name="jakarta.persistence.jdbc.user" value="root"/>
-             		<property name="jakarta.persistence.jdbc.password" value="Unizambeze2022"/>
+             		<property name="jakarta.persistence.jdbc.user" value=""/>
+             		<property name="jakarta.persistence.jdbc.password" value=""/>
              		<property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
              		
              		<property name="jakarta.persistence.schema-generation.database.action" value="drop-and-create"/>
